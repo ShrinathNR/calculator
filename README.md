@@ -1,3 +1,3 @@
-# calculator
-## a simple calc app for practicing my js skills.
-### it has a limitation of two operands
+# Calculator:
+### A simple calc app for practicing my js skills.
+### It has a limitation of two operands.
